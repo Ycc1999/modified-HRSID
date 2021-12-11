@@ -1,7 +1,7 @@
 # modified-HRSID
 This is a SAR Ship Dataset modified from HRSID(A High-Resolution SAR Images Dataset for Ship Detection and Instance Segmentation),the dataset modified some annotition problems of the original dataset.
 
-Firstly, we thank Wei et al. for disclosing high-quality HRSID data sets for the first time, which has greatly promoted the research progress of SAR image target detection and segmentation. Data annotation is a work of fundamental significance. The original DadaSet can be downloaded from URL:
+Firstly, we thank Wei et al.[1] for disclosing high-quality HRSID data sets for the first time, which has greatly promoted the research progress of SAR image target detection and segmentation. Data annotation is a work of fundamental significance. The original DadaSet can be downloaded from URL:
 https://github.com/chaozhong2010/HRSID
 
 In the face of a large number of data, it is inevitable that there are some annotation problems,such as wrong annotation and missing annotation and inconsistent annotation strategies caused by multi-person cooperation. These problems directly affect the training of the model and are reflected in the test results of the model.
