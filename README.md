@@ -10,6 +10,10 @@ In the face of a large number of data, it is inevitable that there are some anno
 
 For the offshore scene, more than 3 / 4 of the ships truncated at the edge of the image are removed; For SAR images in the nearshore environment, Google Earth map software is used to modify some labeled data by observing the high-resolution optical images of the actual area collected by SAR images at different times.
 
+In order to focus on the detection of small targets, some images of large ships with an area of more than 9216 pixels in the HRSID dataset are removed.But the num of image under "all" folder is as same as the original Dateset。
+
+![图片](https://user-images.githubusercontent.com/56115874/145682620-863d206f-ae61-42a2-84d2-3c88d2ab5d89.png)
+
 The images can be found and downloaded from url:
 https://github.com/chaozhong2010/HRSID
 
