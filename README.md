@@ -5,8 +5,8 @@ Firstly, we thank Wei et al. for disclosing high-quality HRSID data sets for the
 https://github.com/chaozhong2010/HRSID
 
 In the face of a large number of data, it is inevitable that there are some annotation problems,such as wrong annotation and missing annotation and inconsistent annotation strategies caused by multi-person cooperation. These problems directly affect the training of the model and are reflected in the test results of the model.
-![图片](https://user-images.githubusercontent.com/56115874/145682271-827e5d2c-c212-4194-a84d-5a08e56ff7b1.png)
-![图片](https://user-images.githubusercontent.com/56115874/145682281-14ff4d0d-86f8-4cdf-8334-12f543171474.png)
+
+![图片](https://user-images.githubusercontent.com/56115874/145682365-abf84ba2-c648-4ee7-a15a-fcdaa62beaef.png)
 
 For the offshore scene, more than 3 / 4 of the ships truncated at the edge of the image are removed; For SAR images in the nearshore environment, Google Earth map software is used to modify some labeled data by observing the high-resolution optical images of the actual area collected by SAR images at different times.
 
